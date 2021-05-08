@@ -1,0 +1,14 @@
+<span id="a">root@S_Harish</span>:<span id="b">~</span><span id="c">$</span> cd My Profile/<!-- kjsdfhkjdhsfkjdshfkj -->About
+<span id="a">root@S_Harish</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->Harish.txt<br/><br/>
+My favorite quote, "<span id="k">Information is Wealth</span>". <!-- sjkfhskjf -->
+
+Hello There! I created this so that<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>You may get to know a little about me.</p>
+<p>Hi, My name is Harish </p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
+<p>I am person who is positive about every aspect of life.I love gaming , coding , eating and to learn new things everyday.I read a lots of quotes as most of them express their feelings and personal experiences through it which helps me understand people better and teaches good life lessons.
+<p>I was bored and thought this would be a nice way to spend some time.You guys can share your project ideas with me so that i can try it in my free time or together if you like to :).
+<br><br>
+<p> Want to tell me something anonymously? <br> <a href="https://tellonym.me/Harish_S">Here you go</a> 
+
+<p> Template credits goes to <a href="https://github.com/Rakeshkumar2206">Rakesh Kumar</a> 
+
+<p>Cheers!</p>
