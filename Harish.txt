@@ -7,8 +7,8 @@ Hello There! I created this so that<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
 <p>I am person who is positive about every aspect of life.I love gaming , coding , eating and to learn new things everyday.I read a lots of quotes as most people express their feelings and personal experiences through it which helps me understand people better and teaches good life lessons.
 <p>I was bored and thought this would be a nice way to spend some time.Feel free to share your suggestions/feedbacks about this in DM anytime.
 <br><br>
-<p> Want to tell me something anonymously? <br> <a href="https://tellonym.me/Harish_S">Here you go</a> 
+<p> Want to tell me something anonymously? <br> <a href="https://tellonym.me/Harish_S" target="_blank" rel="noopener noreferrer">Here you go</a>.</p> 
 
-<p> Template credits goes to <a href="https://github.com/Rakeshkumar2206">Rakesh Kumar</a> 
+<p> Template credits goes to <a href="https://github.com/Rakeshkumar2206" target="_blank" rel="noopener noreferrer">Rakesh Kumar</a>.</p>
 
 <p>Cheers!</p>
