@@ -1,17 +1,35 @@
-<html>  
-<head>  
-<title>   
-CBSE Date sheet  
-</title>  
-<style>
-      .img-container {
-        text-align: center;
-      }
-    </style>
-</head>  
-<body  style="background-color:black;">
-<div class="img-container">
-<img src="https://humornama.com/wp-content/uploads/2020/11/Kaisa-Laga-Mera-Mazak-meme-template-of-Sunil-Grover.jpg" alt="CBSE Datesheet" width="500" height="333">
-</div>
-</body> 
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>CBSE DATE SHEET</title>
+    <link rel="stylesheet" href="test.css">    
+</head>
+<body>
+<div id="popup" class="popup panel panel-primary">
+        
+        <!-- and here comes the image -->
+        <img src="https://hi-static.z-dn.net/files/df2/046f26b66f4aa2193988bb1183feba5b.jpg" alt="popup">
+            
+            <!-- Now this is the button which closes the popup-->
+        <div class="panel-footer">
+            <button id="close" class="btn btn-lg btn-primary">Close button</button>
+        </div>
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+
+<script>
+$(document).ready(function () {
+    //select the POPUP FRAME and show it
+    $("#popup").hide().fadeIn(1000);
+
+    //close the POPUP if the button with id="close" is clicked
+    $("#close").on("click", function (e) {
+        e.preventDefault();
+        $("#popup").fadeOut(1000);
+    });
+});
+</script>
+
+</body>
 </html>
