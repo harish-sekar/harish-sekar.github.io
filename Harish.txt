@@ -8,6 +8,4 @@ Hello There! I created this so that<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
 <br><br>
 <p> Want to tell me something anonymously? <br> <a href="https://tellonym.me/Harish_S" target="_blank" rel="noopener noreferrer">Here you go</a>.</p> 
 
-<p> Template credits goes to <a href="https://github.com/Rakeshkumar2206" target="_blank" rel="noopener noreferrer">Rakesh Kumar</a>.</p>
-
 <p>Cheers!</p>
